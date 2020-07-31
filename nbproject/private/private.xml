@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/java/JavaPolygonPathFindingTest2/src/res/grid.obj</file>
+            <file>file:/D:/java/JavaPolygonPathFindingTest2/src/path/navmesh/Face.java</file>
+            <file>file:/D:/java/JavaPolygonPathFindingTest2/src/path/finder/a_star/Heuristic.java</file>
+            <file>file:/D:/java/JavaPolygonPathFindingTest2/src/path/finder/a_star/Graph.java</file>
+            <file>file:/D:/java/JavaPolygonPathFindingTest2/src/res/path_test.obj</file>
+            <file>file:/D:/java/JavaPolygonPathFindingTest2/src/path/navmesh/NavMesh2D.java</file>
+            <file>file:/D:/java/JavaPolygonPathFindingTest2/src/math/Vec2.java</file>
+            <file>file:/D:/java/JavaPolygonPathFindingTest2/src/View/View.java</file>
+            <file>file:/D:/java/JavaPolygonPathFindingTest2/src/path/finder/a_star/Node.java</file>
+            <file>file:/D:/java/JavaPolygonPathFindingTest2/src/path/finder/a_star/Edge.java</file>
+        </group>
+    </open-files>
+</project-private>
